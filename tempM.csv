@@ -1,0 +1,337 @@
+,Region,Date,Confirmed,Week
+0,Ayrshire and Arran,2020-03-01,0,08
+1,Borders,2020-03-01,0,08
+2,Dumfries and Galloway,2020-03-01,0,08
+3,Fife,2020-03-01,0,08
+4,Forth Valley,2020-03-01,0,08
+5,Grampian,2020-03-01,0,08
+6,Greater Glasgow and Clyde,2020-03-01,0,08
+7,Highland,2020-03-01,0,08
+8,Lanarkshire,2020-03-01,0,08
+9,Lothian,2020-03-01,0,08
+10,Orkney,2020-03-01,0,08
+11,Shetland,2020-03-01,0,08
+12,Tayside,2020-03-01,0,08
+13,Western Isles,2020-03-01,0,08
+14,Ayrshire and Arran,2020-03-02,0,09
+15,Borders,2020-03-02,0,09
+16,Dumfries and Galloway,2020-03-02,0,09
+17,Fife,2020-03-02,0,09
+18,Forth Valley,2020-03-02,0,09
+19,Grampian,2020-03-02,0,09
+20,Greater Glasgow and Clyde,2020-03-02,0,09
+21,Highland,2020-03-02,0,09
+22,Lanarkshire,2020-03-02,0,09
+23,Lothian,2020-03-02,0,09
+24,Orkney,2020-03-02,0,09
+25,Shetland,2020-03-02,0,09
+26,Tayside,2020-03-02,1,09
+27,Western Isles,2020-03-02,0,09
+28,Ayrshire and Arran,2020-03-03,0,09
+29,Borders,2020-03-03,0,09
+30,Dumfries and Galloway,2020-03-03,0,09
+31,Fife,2020-03-03,0,09
+32,Forth Valley,2020-03-03,0,09
+33,Grampian,2020-03-03,0,09
+34,Greater Glasgow and Clyde,2020-03-03,0,09
+35,Highland,2020-03-03,0,09
+36,Lanarkshire,2020-03-03,0,09
+37,Lothian,2020-03-03,0,09
+38,Orkney,2020-03-03,0,09
+39,Shetland,2020-03-03,0,09
+40,Tayside,2020-03-03,1,09
+41,Western Isles,2020-03-03,0,09
+42,Ayrshire and Arran,2020-03-04,1,09
+43,Borders,2020-03-04,0,09
+44,Dumfries and Galloway,2020-03-04,0,09
+45,Fife,2020-03-04,0,09
+46,Forth Valley,2020-03-04,0,09
+47,Grampian,2020-03-04,1,09
+48,Greater Glasgow and Clyde,2020-03-04,0,09
+49,Highland,2020-03-04,0,09
+50,Lanarkshire,2020-03-04,0,09
+51,Lothian,2020-03-04,0,09
+52,Orkney,2020-03-04,0,09
+53,Shetland,2020-03-04,0,09
+54,Tayside,2020-03-04,1,09
+55,Western Isles,2020-03-04,0,09
+56,Ayrshire and Arran,2020-03-05,1,09
+57,Borders,2020-03-05,0,09
+58,Dumfries and Galloway,2020-03-05,0,09
+59,Fife,2020-03-05,0,09
+60,Forth Valley,2020-03-05,1,09
+61,Grampian,2020-03-05,2,09
+62,Greater Glasgow and Clyde,2020-03-05,1,09
+63,Highland,2020-03-05,0,09
+64,Lanarkshire,2020-03-05,0,09
+65,Lothian,2020-03-05,0,09
+66,Orkney,2020-03-05,0,09
+67,Shetland,2020-03-05,0,09
+68,Tayside,2020-03-05,1,09
+69,Western Isles,2020-03-05,0,09
+70,Ayrshire and Arran,2020-03-06,1,09
+71,Borders,2020-03-06,0,09
+72,Dumfries and Galloway,2020-03-06,0,09
+73,Fife,2020-03-06,2,09
+74,Forth Valley,2020-03-06,2,09
+75,Grampian,2020-03-06,3,09
+76,Greater Glasgow and Clyde,2020-03-06,1,09
+77,Highland,2020-03-06,0,09
+78,Lanarkshire,2020-03-06,0,09
+79,Lothian,2020-03-06,1,09
+80,Orkney,2020-03-06,0,09
+81,Shetland,2020-03-06,0,09
+82,Tayside,2020-03-06,1,09
+83,Western Isles,2020-03-06,0,09
+84,Ayrshire and Arran,2020-03-07,1,09
+85,Borders,2020-03-07,0,09
+86,Dumfries and Galloway,2020-03-07,0,09
+87,Fife,2020-03-07,2,09
+88,Forth Valley,2020-03-07,2,09
+89,Grampian,2020-03-07,4,09
+90,Greater Glasgow and Clyde,2020-03-07,2,09
+91,Highland,2020-03-07,0,09
+92,Lanarkshire,2020-03-07,2,09
+93,Lothian,2020-03-07,2,09
+94,Orkney,2020-03-07,0,09
+95,Shetland,2020-03-07,0,09
+96,Tayside,2020-03-07,1,09
+97,Western Isles,2020-03-07,0,09
+98,Ayrshire and Arran,2020-03-08,1,09
+99,Borders,2020-03-08,0,09
+100,Dumfries and Galloway,2020-03-08,0,09
+101,Fife,2020-03-08,2,09
+102,Forth Valley,2020-03-08,2,09
+103,Grampian,2020-03-08,4,09
+104,Greater Glasgow and Clyde,2020-03-08,3,09
+105,Highland,2020-03-08,0,09
+106,Lanarkshire,2020-03-08,2,09
+107,Lothian,2020-03-08,3,09
+108,Orkney,2020-03-08,0,09
+109,Shetland,2020-03-08,0,09
+110,Tayside,2020-03-08,1,09
+111,Western Isles,2020-03-08,0,09
+112,Ayrshire and Arran,2020-03-09,1,10
+113,Borders,2020-03-09,0,10
+114,Dumfries and Galloway,2020-03-09,0,10
+115,Fife,2020-03-09,2,10
+116,Forth Valley,2020-03-09,2,10
+117,Grampian,2020-03-09,4,10
+118,Greater Glasgow and Clyde,2020-03-09,3,10
+119,Highland,2020-03-09,0,10
+120,Lanarkshire,2020-03-09,3,10
+121,Lothian,2020-03-09,5,10
+122,Orkney,2020-03-09,0,10
+123,Shetland,2020-03-09,2,10
+124,Tayside,2020-03-09,1,10
+125,Western Isles,2020-03-09,0,10
+126,Ayrshire and Arran,2020-03-10,1,10
+127,Borders,2020-03-10,0,10
+128,Dumfries and Galloway,2020-03-10,0,10
+129,Fife,2020-03-10,2,10
+130,Forth Valley,2020-03-10,2,10
+131,Grampian,2020-03-10,6,10
+132,Greater Glasgow and Clyde,2020-03-10,3,10
+133,Highland,2020-03-10,0,10
+134,Lanarkshire,2020-03-10,3,10
+135,Lothian,2020-03-10,7,10
+136,Orkney,2020-03-10,0,10
+137,Shetland,2020-03-10,2,10
+138,Tayside,2020-03-10,1,10
+139,Western Isles,2020-03-10,0,10
+140,Ayrshire and Arran,2020-03-11,3,10
+141,Borders,2020-03-11,2,10
+142,Dumfries and Galloway,2020-03-11,0,10
+143,Fife,2020-03-11,2,10
+144,Forth Valley,2020-03-11,2,10
+145,Grampian,2020-03-11,6,10
+146,Greater Glasgow and Clyde,2020-03-11,5,10
+147,Highland,2020-03-11,0,10
+148,Lanarkshire,2020-03-11,4,10
+149,Lothian,2020-03-11,8,10
+150,Orkney,2020-03-11,0,10
+151,Shetland,2020-03-11,2,10
+152,Tayside,2020-03-11,2,10
+153,Western Isles,2020-03-11,0,10
+154,Ayrshire and Arran,2020-03-12,4,10
+155,Borders,2020-03-12,2,10
+156,Dumfries and Galloway,2020-03-12,0,10
+157,Fife,2020-03-12,3,10
+158,Forth Valley,2020-03-12,6,10
+159,Grampian,2020-03-12,7,10
+160,Greater Glasgow and Clyde,2020-03-12,10,10
+161,Highland,2020-03-12,0,10
+162,Lanarkshire,2020-03-12,7,10
+163,Lothian,2020-03-12,11,10
+164,Orkney,2020-03-12,0,10
+165,Shetland,2020-03-12,6,10
+166,Tayside,2020-03-12,4,10
+167,Western Isles,2020-03-12,0,10
+168,Ayrshire and Arran,2020-03-13,4,10
+169,Borders,2020-03-13,3,10
+170,Dumfries and Galloway,2020-03-13,0,10
+171,Fife,2020-03-13,4,10
+172,Forth Valley,2020-03-13,6,10
+173,Grampian,2020-03-13,11,10
+174,Greater Glasgow and Clyde,2020-03-13,21,10
+175,Highland,2020-03-13,0,10
+176,Lanarkshire,2020-03-13,7,10
+177,Lothian,2020-03-13,20,10
+178,Orkney,2020-03-13,0,10
+179,Shetland,2020-03-13,6,10
+180,Tayside,2020-03-13,3,10
+181,Western Isles,2020-03-13,0,10
+182,Ayrshire and Arran,2020-03-14,6,10
+183,Borders,2020-03-14,5,10
+184,Dumfries and Galloway,2020-03-14,0,10
+185,Fife,2020-03-14,6,10
+186,Forth Valley,2020-03-14,6,10
+187,Grampian,2020-03-14,9,10
+188,Greater Glasgow and Clyde,2020-03-14,31,10
+189,Highland,2020-03-14,1,10
+190,Lanarkshire,2020-03-14,10,10
+191,Lothian,2020-03-14,25,10
+192,Orkney,2020-03-14,0,10
+193,Shetland,2020-03-14,11,10
+194,Tayside,2020-03-14,11,10
+195,Western Isles,2020-03-14,0,10
+196,Ayrshire and Arran,2020-03-15,6,10
+197,Borders,2020-03-15,7,10
+198,Dumfries and Galloway,2020-03-15,0,10
+199,Fife,2020-03-15,7,10
+200,Forth Valley,2020-03-15,10,10
+201,Grampian,2020-03-15,12,10
+202,Greater Glasgow and Clyde,2020-03-15,39,10
+203,Highland,2020-03-15,2,10
+204,Lanarkshire,2020-03-15,16,10
+205,Lothian,2020-03-15,28,10
+206,Orkney,2020-03-15,0,10
+207,Shetland,2020-03-15,11,10
+208,Tayside,2020-03-15,15,10
+209,Western Isles,2020-03-15,0,10
+210,Ayrshire and Arran,2020-03-16,7,11
+211,Borders,2020-03-16,7,11
+212,Dumfries and Galloway,2020-03-16,1,11
+213,Fife,2020-03-16,7,11
+214,Forth Valley,2020-03-16,10,11
+215,Grampian,2020-03-16,12,11
+216,Greater Glasgow and Clyde,2020-03-16,44,11
+217,Highland,2020-03-16,2,11
+218,Lanarkshire,2020-03-16,20,11
+219,Lothian,2020-03-16,29,11
+220,Orkney,2020-03-16,0,11
+221,Shetland,2020-03-16,15,11
+222,Tayside,2020-03-16,17,11
+223,Western Isles,2020-03-16,0,11
+224,Ayrshire and Arran,2020-03-17,6,11
+225,Borders,2020-03-17,7,11
+226,Dumfries and Galloway,2020-03-17,1,11
+227,Fife,2020-03-17,7,11
+228,Forth Valley,2020-03-17,12,11
+229,Grampian,2020-03-17,22,11
+230,Greater Glasgow and Clyde,2020-03-17,49,11
+231,Highland,2020-03-17,5,11
+232,Lanarkshire,2020-03-17,21,11
+233,Lothian,2020-03-17,30,11
+234,Orkney,2020-03-17,0,11
+235,Shetland,2020-03-17,15,11
+236,Tayside,2020-03-17,20,11
+237,Western Isles,2020-03-17,0,11
+238,Ayrshire and Arran,2020-03-18,9,11
+239,Borders,2020-03-18,7,11
+240,Dumfries and Galloway,2020-03-18,4,11
+241,Fife,2020-03-18,8,11
+242,Forth Valley,2020-03-18,15,11
+243,Grampian,2020-03-18,24,11
+244,Greater Glasgow and Clyde,2020-03-18,57,11
+245,Highland,2020-03-18,5,11
+246,Lanarkshire,2020-03-18,25,11
+247,Lothian,2020-03-18,33,11
+248,Orkney,2020-03-18,0,11
+249,Shetland,2020-03-18,16,11
+250,Tayside,2020-03-18,24,11
+251,Western Isles,2020-03-18,0,11
+252,Ayrshire and Arran,2020-03-19,12,11
+253,Borders,2020-03-19,8,11
+254,Dumfries and Galloway,2020-03-19,6,11
+255,Fife,2020-03-19,9,11
+256,Forth Valley,2020-03-19,17,11
+257,Grampian,2020-03-19,18,11
+258,Greater Glasgow and Clyde,2020-03-19,71,11
+259,Highland,2020-03-19,6,11
+260,Lanarkshire,2020-03-19,33,11
+261,Lothian,2020-03-19,35,11
+262,Orkney,2020-03-19,0,11
+263,Shetland,2020-03-19,24,11
+264,Tayside,2020-03-19,27,11
+265,Western Isles,2020-03-19,0,11
+266,Ayrshire and Arran,2020-03-20,16,11
+267,Borders,2020-03-20,9,11
+268,Dumfries and Galloway,2020-03-20,10,11
+269,Fife,2020-03-20,12,11
+270,Forth Valley,2020-03-20,23,11
+271,Grampian,2020-03-20,19,11
+272,Greater Glasgow and Clyde,2020-03-20,91,11
+273,Highland,2020-03-20,6,11
+274,Lanarkshire,2020-03-20,41,11
+275,Lothian,2020-03-20,40,11
+276,Orkney,2020-03-20,0,11
+277,Shetland,2020-03-20,24,11
+278,Tayside,2020-03-20,31,11
+279,Western Isles,2020-03-20,0,11
+280,Ayrshire and Arran,2020-03-21,21,11
+281,Borders,2020-03-21,10,11
+282,Dumfries and Galloway,2020-03-21,13,11
+283,Fife,2020-03-21,13,11
+284,Forth Valley,2020-03-21,27,11
+285,Grampian,2020-03-21,20,11
+286,Greater Glasgow and Clyde,2020-03-21,110,11
+287,Highland,2020-03-21,8,11
+288,Lanarkshire,2020-03-21,49,11
+289,Lothian,2020-03-21,44,11
+290,Orkney,2020-03-21,0,11
+291,Shetland,2020-03-21,24,11
+292,Tayside,2020-03-21,34,11
+293,Western Isles,2020-03-21,0,11
+294,Ayrshire and Arran,2020-03-22,25,11
+295,Borders,2020-03-22,11,11
+296,Dumfries and Galloway,2020-03-22,16,11
+297,Fife,2020-03-22,16,11
+298,Forth Valley,2020-03-22,30,11
+299,Grampian,2020-03-22,23,11
+300,Greater Glasgow and Clyde,2020-03-22,130,11
+301,Highland,2020-03-22,8,11
+302,Lanarkshire,2020-03-22,49,11
+303,Lothian,2020-03-22,46,11
+304,Orkney,2020-03-22,0,11
+305,Shetland,2020-03-22,24,11
+306,Tayside,2020-03-22,38,11
+307,Western Isles,2020-03-22,0,11
+308,Ayrshire and Arran,2020-03-23,34,12
+309,Borders,2020-03-23,12,12
+310,Dumfries and Galloway,2020-03-23,18,12
+311,Fife,2020-03-23,19,12
+312,Forth Valley,2020-03-23,40,12
+313,Grampian,2020-03-23,24,12
+314,Greater Glasgow and Clyde,2020-03-23,152,12
+315,Highland,2020-03-23,12,12
+316,Lanarkshire,2020-03-23,58,12
+317,Lothian,2020-03-23,59,12
+318,Orkney,2020-03-23,0,12
+319,Shetland,2020-03-23,24,12
+320,Tayside,2020-03-23,47,12
+321,Western Isles,2020-03-23,0,12
+322,Ayrshire and Arran,2020-03-24,41,12
+323,Borders,2020-03-24,12,12
+324,Dumfries and Galloway,2020-03-24,26,12
+325,Fife,2020-03-24,25,12
+326,Forth Valley,2020-03-24,43,12
+327,Grampian,2020-03-24,24,12
+328,Greater Glasgow and Clyde,2020-03-24,183,12
+329,Highland,2020-03-24,13,12
+330,Lanarkshire,2020-03-24,75,12
+331,Lothian,2020-03-24,70,12
+332,Orkney,2020-03-24,0,12
+333,Shetland,2020-03-24,24,12
+334,Tayside,2020-03-24,48,12
+335,Western Isles,2020-03-24,0,12
